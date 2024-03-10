@@ -11,4 +11,4 @@ Este repositório contém o código utilizado no artigo "Inteligência Artificia
 
 # Softwares Utilizados
 
-Este repositório utiliza funcionalidades do Software que implementa do algoritmo do MOD17 disponível em [github.com/arthur-e/MOD17]([link_do_repositorio](https://github.com/arthur-e/MOD17);
+Este repositório utiliza funcionalidades do Software que implementa do algoritmo do MOD17 disponível em ([github.com/arthur-e/MOD17](https://github.com/arthur-e/MOD17);
