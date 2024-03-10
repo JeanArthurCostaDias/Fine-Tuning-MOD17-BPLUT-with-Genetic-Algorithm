@@ -1,4 +1,4 @@
-# Inteligência Artificial Aplicada ao Aprimoramento de Parâmetros para o Monitoramento de Fluxo de Carbono por Satélite na Região Amazônica
+# Aprimoramento de Parâmetros da BPLUT do produto MOD17 com Algoritmo Genético (AG)
 
 Este repositório contém o código utilizado no artigo "Inteligência Artificial Aplicada ao Aprimoramento de Parâmetros para o Monitoramento de Fluxo de Carbono por Satélite na Região Amazônica";
 
